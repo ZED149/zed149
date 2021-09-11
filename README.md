@@ -39,4 +39,4 @@
 [twitter]: https://twitter.com/Salmanahmad149
 [youtube]: https://www.youtube.com/channel/UCra5Jgsz6TxUQdFbwE-65dw
 [instagram]: https://instagram.com/salmanahmad111499
-[linkedin]: https://linkedin.com/in/salmanahmad111499
+[linkedin]: http://linkedin.com/in/salman-ahmad-a7b839171
