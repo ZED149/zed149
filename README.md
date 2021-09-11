@@ -42,14 +42,6 @@
 
 ---
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.zed149.vercel.app/api?username=ZED149&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/Salmanahmad149
 [youtube]: https://www.youtube.com/channel/UCra5Jgsz6TxUQdFbwE-65dw
 [instagram]: https://instagram.com/salmanahmad111499
